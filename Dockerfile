@@ -1,4 +1,4 @@
-FROM php:7.0.2-apache
+FROM php:7.0.10-apache
 
 RUN a2enmod rewrite expires
 
@@ -22,8 +22,8 @@ RUN { \
 
 VOLUME /var/www/html
 
-ENV WORDPRESS_VERSION 4.4.1
-ENV WORDPRESS_SHA1 89bcc67a33aecb691e879c818d7e2299701f30e7
+ENV WORDPRESS_VERSION 4.6.1
+ENV WORDPRESS_SHA1 027e065d30a64720624a7404a1820e6c6fff1202
 
 # upstream tarballs include ./wordpress/ so this gives us /usr/src/wordpress
 RUN curl -o wordpress.tar.gz -SL https://wordpress.org/wordpress-${WORDPRESS_VERSION}.tar.gz \
