@@ -1,0 +1,1 @@
+docker build -t luizcarlosfaria/wordpress-apache-php7:latest .
