@@ -8,8 +8,9 @@
 
 # Supported tags and respective ```Dockerfile``` links
 
-* [```4.8```](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.8/Dockerfile), [```latest```](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.8/Dockerfile) [(Dockerfile)](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.8/Dockerfile) ( php:7-apache / Wordpress 4.8)
-* [```4.6.1```](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.6.1/Dockerfile), [(Dockerfile)](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.6.1/Dockerfile) ( php:7.0.10-apache / Wordpress 4.6.1)
+* [```4.9.6```](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.9.6/Dockerfile), [```latest```](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.9.6/Dockerfile) [(Dockerfile)](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.9.6/Dockerfile) ( php:7-apache / Wordpress 4.9.6)
+* [```4.8```](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.8/Dockerfile) [(Dockerfile)](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.8/Dockerfile) ( php:7-apache / Wordpress 4.8)
+* [```4.6.1```](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.6.1/Dockerfile) [(Dockerfile)](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.6.1/Dockerfile) ( php:7.0.10-apache / Wordpress 4.6.1)
 * [```4.4.1```](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.4.1/Dockerfile) [(Dockerfile)](https://github.com/docker-gallery/wordpress-apache-php7/blob/v4.4.1/Dockerfile) ( php:7.0.2-apache / Wordpress 4.4.1)
 
 ## Based on [wordpress](https://hub.docker.com/_/wordpress/) official image
